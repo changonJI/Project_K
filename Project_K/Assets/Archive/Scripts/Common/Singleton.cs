@@ -28,6 +28,21 @@ public class Singleton<T> where T : class, new()
         return instance != null;
     }
 
+    /// <summary>
+    /// 持失切
+    /// </summary>
+    public Singleton()
+    {
+
+    }
+
+    /// <summary>
+    /// 社瑚切
+    /// </summary>
+    ~Singleton()
+    {
+
+    }
 }
 
 /// <summary>
