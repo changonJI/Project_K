@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEditor;
 using UnityEditor.SceneManagement;
+using System.IO;
 
 public static class MenuItemUtil
 {
@@ -47,5 +48,19 @@ public static class MenuItemUtil
         EditorSceneManager.OpenScene("Assets/Scenes/TownScene.unity");
     }
 
+    /// <summary>
+    /// 에셋번들 빌드
+    /// </summary>
+    [UnityEditor.MenuItem("Assets/Asset Bundles Build")]
+    private static void BuildAllAssetBundles()
+    {
+        string assetBundleDir = Application.dataPath + "/" + "AssetBundle";
 
+        if (!Directory.Exists(assetBundleDir))
+        {
+            Directory.CreateDirectory(assetBundleDir);
+        }
+
+        BuildPipeline.BuildAssetBundles(assetBundleDir, BuildAssetBundleOptions.None, EditorUserBuildSettings.activeBuildTarget);
+    }
 }
