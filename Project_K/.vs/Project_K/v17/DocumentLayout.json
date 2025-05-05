@@ -1,0 +1,327 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SourceTreeProject\\Project_K\\Project_K\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96847A49-D512-002C-4F80-8585D2C9B622}|Assembly-CSharp.csproj|D:\\SourceTreeProject\\Project_K\\Project_K\\assets\\archive\\scripts\\tabledata\\googlesheetload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96847A49-D512-002C-4F80-8585D2C9B622}|Assembly-CSharp.csproj|solutionrelative:assets\\archive\\scripts\\tabledata\\googlesheetload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96847A49-D512-002C-4F80-8585D2C9B622}|Assembly-CSharp.csproj|d:\\sourcetreeproject\\project_k\\project_k\\assets\\archive\\scripts\\common\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96847A49-D512-002C-4F80-8585D2C9B622}|Assembly-CSharp.csproj|solutionrelative:assets\\archive\\scripts\\common\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96847A49-D512-002C-4F80-8585D2C9B622}|Assembly-CSharp.csproj|D:\\SourceTreeProject\\Project_K\\Project_K\\assets\\archive\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96847A49-D512-002C-4F80-8585D2C9B622}|Assembly-CSharp.csproj|solutionrelative:assets\\archive\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96847A49-D512-002C-4F80-8585D2C9B622}|Assembly-CSharp.csproj|D:\\SourceTreeProject\\Project_K\\Project_K\\assets\\archive\\scripts\\ui\\uisprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96847A49-D512-002C-4F80-8585D2C9B622}|Assembly-CSharp.csproj|solutionrelative:assets\\archive\\scripts\\ui\\uisprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96847A49-D512-002C-4F80-8585D2C9B622}|Assembly-CSharp.csproj|D:\\SourceTreeProject\\Project_K\\Project_K\\assets\\archive\\scripts\\common\\singletonclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96847A49-D512-002C-4F80-8585D2C9B622}|Assembly-CSharp.csproj|solutionrelative:assets\\archive\\scripts\\common\\singletonclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96847A49-D512-002C-4F80-8585D2C9B622}|Assembly-CSharp.csproj|D:\\SourceTreeProject\\Project_K\\Project_K\\assets\\archive\\scripts\\common\\cspractice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96847A49-D512-002C-4F80-8585D2C9B622}|Assembly-CSharp.csproj|solutionrelative:assets\\archive\\scripts\\common\\cspractice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90F3F106-E2ED-02AC-7EE8-E24AA8026743}|Assembly-CSharp-Editor.csproj|D:\\SourceTreeProject\\Project_K\\Project_K\\assets\\editor\\menuitemutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90F3F106-E2ED-02AC-7EE8-E24AA8026743}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\editor\\menuitemutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96847A49-D512-002C-4F80-8585D2C9B622}|Assembly-CSharp.csproj|D:\\SourceTreeProject\\Project_K\\Project_K\\assets\\archive\\scripts\\assetbundlemanager\\assetbundlemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96847A49-D512-002C-4F80-8585D2C9B622}|Assembly-CSharp.csproj|solutionrelative:assets\\archive\\scripts\\assetbundlemanager\\assetbundlemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96847A49-D512-002C-4F80-8585D2C9B622}|Assembly-CSharp.csproj|D:\\SourceTreeProject\\Project_K\\Project_K\\assets\\archive\\scripts\\fsm_practice_1\\fsmmain_practice_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96847A49-D512-002C-4F80-8585D2C9B622}|Assembly-CSharp.csproj|solutionrelative:assets\\archive\\scripts\\fsm_practice_1\\fsmmain_practice_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96847A49-D512-002C-4F80-8585D2C9B622}|Assembly-CSharp.csproj|D:\\SourceTreeProject\\Project_K\\Project_K\\assets\\archive\\scripts\\fsm_practice_1\\fsm_state_exit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96847A49-D512-002C-4F80-8585D2C9B622}|Assembly-CSharp.csproj|solutionrelative:assets\\archive\\scripts\\fsm_practice_1\\fsm_state_exit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96847A49-D512-002C-4F80-8585D2C9B622}|Assembly-CSharp.csproj|D:\\SourceTreeProject\\Project_K\\Project_K\\assets\\archive\\scripts\\fsm_practice_1\\fsm_practice_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96847A49-D512-002C-4F80-8585D2C9B622}|Assembly-CSharp.csproj|solutionrelative:assets\\archive\\scripts\\fsm_practice_1\\fsm_practice_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96847A49-D512-002C-4F80-8585D2C9B622}|Assembly-CSharp.csproj|D:\\SourceTreeProject\\Project_K\\Project_K\\assets\\archive\\scripts\\fsm_practice_1\\fsm_state_idle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96847A49-D512-002C-4F80-8585D2C9B622}|Assembly-CSharp.csproj|solutionrelative:assets\\archive\\scripts\\fsm_practice_1\\fsm_state_idle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96847A49-D512-002C-4F80-8585D2C9B622}|Assembly-CSharp.csproj|D:\\SourceTreeProject\\Project_K\\Project_K\\assets\\archive\\scripts\\fsm\\singlefsm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96847A49-D512-002C-4F80-8585D2C9B622}|Assembly-CSharp.csproj|solutionrelative:assets\\archive\\scripts\\fsm\\singlefsm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96847A49-D512-002C-4F80-8585D2C9B622}|Assembly-CSharp.csproj|D:\\SourceTreeProject\\Project_K\\Project_K\\assets\\archive\\scripts\\fsm_practice_1\\fsm_state_running.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96847A49-D512-002C-4F80-8585D2C9B622}|Assembly-CSharp.csproj|solutionrelative:assets\\archive\\scripts\\fsm_practice_1\\fsm_state_running.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96847A49-D512-002C-4F80-8585D2C9B622}|Assembly-CSharp.csproj|D:\\SourceTreeProject\\Project_K\\Project_K\\assets\\archive\\scripts\\fsm\\fsm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96847A49-D512-002C-4F80-8585D2C9B622}|Assembly-CSharp.csproj|solutionrelative:assets\\archive\\scripts\\fsm\\fsm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96847A49-D512-002C-4F80-8585D2C9B622}|Assembly-CSharp.csproj|D:\\SourceTreeProject\\Project_K\\Project_K\\assets\\archive\\scripts\\manager\\uistatemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96847A49-D512-002C-4F80-8585D2C9B622}|Assembly-CSharp.csproj|solutionrelative:assets\\archive\\scripts\\manager\\uistatemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96847A49-D512-002C-4F80-8585D2C9B622}|Assembly-CSharp.csproj|D:\\SourceTreeProject\\Project_K\\Project_K\\assets\\archive\\scripts\\fsm\\multifsm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96847A49-D512-002C-4F80-8585D2C9B622}|Assembly-CSharp.csproj|solutionrelative:assets\\archive\\scripts\\fsm\\multifsm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96847A49-D512-002C-4F80-8585D2C9B622}|Assembly-CSharp.csproj|D:\\SourceTreeProject\\Project_K\\Project_K\\assets\\archive\\scripts\\fsm\\finitestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96847A49-D512-002C-4F80-8585D2C9B622}|Assembly-CSharp.csproj|solutionrelative:assets\\archive\\scripts\\fsm\\finitestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96847A49-D512-002C-4F80-8585D2C9B622}|Assembly-CSharp.csproj|D:\\SourceTreeProject\\Project_K\\Project_K\\assets\\archive\\scripts\\common\\globalval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96847A49-D512-002C-4F80-8585D2C9B622}|Assembly-CSharp.csproj|solutionrelative:assets\\archive\\scripts\\common\\globalval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UISprite.cs",
+              "DocumentMoniker": "D:\\SourceTreeProject\\Project_K\\Project_K\\Assets\\Archive\\Scripts\\UI\\UISprite.cs",
+              "RelativeDocumentMoniker": "Assets\\Archive\\Scripts\\UI\\UISprite.cs",
+              "ToolTip": "D:\\SourceTreeProject\\Project_K\\Project_K\\Assets\\Archive\\Scripts\\UI\\UISprite.cs",
+              "RelativeToolTip": "Assets\\Archive\\Scripts\\UI\\UISprite.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T09:58:55.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CSPractice.cs",
+              "DocumentMoniker": "D:\\SourceTreeProject\\Project_K\\Project_K\\Assets\\Archive\\Scripts\\Common\\CSPractice.cs",
+              "RelativeDocumentMoniker": "Assets\\Archive\\Scripts\\Common\\CSPractice.cs",
+              "ToolTip": "D:\\SourceTreeProject\\Project_K\\Project_K\\Assets\\Archive\\Scripts\\Common\\CSPractice.cs",
+              "RelativeToolTip": "Assets\\Archive\\Scripts\\Common\\CSPractice.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T06:00:59.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FSMMain_Practice_1.cs",
+              "DocumentMoniker": "D:\\SourceTreeProject\\Project_K\\Project_K\\Assets\\Archive\\Scripts\\FSM_Practice_1\\FSMMain_Practice_1.cs",
+              "RelativeDocumentMoniker": "Assets\\Archive\\Scripts\\FSM_Practice_1\\FSMMain_Practice_1.cs",
+              "ToolTip": "D:\\SourceTreeProject\\Project_K\\Project_K\\Assets\\Archive\\Scripts\\FSM_Practice_1\\FSMMain_Practice_1.cs",
+              "RelativeToolTip": "Assets\\Archive\\Scripts\\FSM_Practice_1\\FSMMain_Practice_1.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T15:03:21.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FSM_Practice_1.cs",
+              "DocumentMoniker": "D:\\SourceTreeProject\\Project_K\\Project_K\\Assets\\Archive\\Scripts\\FSM_Practice_1\\FSM_Practice_1.cs",
+              "RelativeDocumentMoniker": "Assets\\Archive\\Scripts\\FSM_Practice_1\\FSM_Practice_1.cs",
+              "ToolTip": "D:\\SourceTreeProject\\Project_K\\Project_K\\Assets\\Archive\\Scripts\\FSM_Practice_1\\FSM_Practice_1.cs",
+              "RelativeToolTip": "Assets\\Archive\\Scripts\\FSM_Practice_1\\FSM_Practice_1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T14:54:42.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FSM_State_Exit.cs",
+              "DocumentMoniker": "D:\\SourceTreeProject\\Project_K\\Project_K\\Assets\\Archive\\Scripts\\FSM_Practice_1\\FSM_State_Exit.cs",
+              "RelativeDocumentMoniker": "Assets\\Archive\\Scripts\\FSM_Practice_1\\FSM_State_Exit.cs",
+              "ToolTip": "D:\\SourceTreeProject\\Project_K\\Project_K\\Assets\\Archive\\Scripts\\FSM_Practice_1\\FSM_State_Exit.cs",
+              "RelativeToolTip": "Assets\\Archive\\Scripts\\FSM_Practice_1\\FSM_State_Exit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T14:54:20.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AssetBundleManager.cs",
+              "DocumentMoniker": "D:\\SourceTreeProject\\Project_K\\Project_K\\Assets\\Archive\\Scripts\\AssetBundleManager\\AssetBundleManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Archive\\Scripts\\AssetBundleManager\\AssetBundleManager.cs",
+              "ToolTip": "D:\\SourceTreeProject\\Project_K\\Project_K\\Assets\\Archive\\Scripts\\AssetBundleManager\\AssetBundleManager.cs",
+              "RelativeToolTip": "Assets\\Archive\\Scripts\\AssetBundleManager\\AssetBundleManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T07:41:47.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MenuItemUtil.cs",
+              "DocumentMoniker": "D:\\SourceTreeProject\\Project_K\\Project_K\\Assets\\Editor\\MenuItemUtil.cs",
+              "RelativeDocumentMoniker": "Assets\\Editor\\MenuItemUtil.cs",
+              "ToolTip": "D:\\SourceTreeProject\\Project_K\\Project_K\\Assets\\Editor\\MenuItemUtil.cs",
+              "RelativeToolTip": "Assets\\Editor\\MenuItemUtil.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAABwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T07:40:02.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FSM_State_Idle.cs",
+              "DocumentMoniker": "D:\\SourceTreeProject\\Project_K\\Project_K\\Assets\\Archive\\Scripts\\FSM_Practice_1\\FSM_State_Idle.cs",
+              "RelativeDocumentMoniker": "Assets\\Archive\\Scripts\\FSM_Practice_1\\FSM_State_Idle.cs",
+              "ToolTip": "D:\\SourceTreeProject\\Project_K\\Project_K\\Assets\\Archive\\Scripts\\FSM_Practice_1\\FSM_State_Idle.cs",
+              "RelativeToolTip": "Assets\\Archive\\Scripts\\FSM_Practice_1\\FSM_State_Idle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T14:53:31.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FSM_State_Running.cs",
+              "DocumentMoniker": "D:\\SourceTreeProject\\Project_K\\Project_K\\Assets\\Archive\\Scripts\\FSM_Practice_1\\FSM_State_Running.cs",
+              "RelativeDocumentMoniker": "Assets\\Archive\\Scripts\\FSM_Practice_1\\FSM_State_Running.cs",
+              "ToolTip": "D:\\SourceTreeProject\\Project_K\\Project_K\\Assets\\Archive\\Scripts\\FSM_Practice_1\\FSM_State_Running.cs",
+              "RelativeToolTip": "Assets\\Archive\\Scripts\\FSM_Practice_1\\FSM_State_Running.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T14:54:06.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SingletonClass.cs",
+              "DocumentMoniker": "D:\\SourceTreeProject\\Project_K\\Project_K\\Assets\\Archive\\Scripts\\Common\\SingletonClass.cs",
+              "RelativeDocumentMoniker": "Assets\\Archive\\Scripts\\Common\\SingletonClass.cs",
+              "ToolTip": "D:\\SourceTreeProject\\Project_K\\Project_K\\Assets\\Archive\\Scripts\\Common\\SingletonClass.cs",
+              "RelativeToolTip": "Assets\\Archive\\Scripts\\Common\\SingletonClass.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAuwFYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T14:47:11.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UIStateManager.cs",
+              "DocumentMoniker": "D:\\SourceTreeProject\\Project_K\\Project_K\\Assets\\Archive\\Scripts\\Manager\\UIStateManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Archive\\Scripts\\Manager\\UIStateManager.cs",
+              "ToolTip": "D:\\SourceTreeProject\\Project_K\\Project_K\\Assets\\Archive\\Scripts\\Manager\\UIStateManager.cs",
+              "RelativeToolTip": "Assets\\Archive\\Scripts\\Manager\\UIStateManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T14:43:35.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SingleFSM.cs",
+              "DocumentMoniker": "D:\\SourceTreeProject\\Project_K\\Project_K\\Assets\\Archive\\Scripts\\FSM\\SingleFSM.cs",
+              "RelativeDocumentMoniker": "Assets\\Archive\\Scripts\\FSM\\SingleFSM.cs",
+              "ToolTip": "D:\\SourceTreeProject\\Project_K\\Project_K\\Assets\\Archive\\Scripts\\FSM\\SingleFSM.cs",
+              "RelativeToolTip": "Assets\\Archive\\Scripts\\FSM\\SingleFSM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T13:37:15.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FiniteState.cs",
+              "DocumentMoniker": "D:\\SourceTreeProject\\Project_K\\Project_K\\Assets\\Archive\\Scripts\\FSM\\FiniteState.cs",
+              "RelativeDocumentMoniker": "Assets\\Archive\\Scripts\\FSM\\FiniteState.cs",
+              "ToolTip": "D:\\SourceTreeProject\\Project_K\\Project_K\\Assets\\Archive\\Scripts\\FSM\\FiniteState.cs",
+              "RelativeToolTip": "Assets\\Archive\\Scripts\\FSM\\FiniteState.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAMwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T15:03:36.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FSM.cs",
+              "DocumentMoniker": "D:\\SourceTreeProject\\Project_K\\Project_K\\Assets\\Archive\\Scripts\\FSM\\FSM.cs",
+              "RelativeDocumentMoniker": "Assets\\Archive\\Scripts\\FSM\\FSM.cs",
+              "ToolTip": "D:\\SourceTreeProject\\Project_K\\Project_K\\Assets\\Archive\\Scripts\\FSM\\FSM.cs",
+              "RelativeToolTip": "Assets\\Archive\\Scripts\\FSM\\FSM.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T14:55:46.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MultiFSM.cs",
+              "DocumentMoniker": "D:\\SourceTreeProject\\Project_K\\Project_K\\Assets\\Archive\\Scripts\\FSM\\MultiFSM.cs",
+              "RelativeDocumentMoniker": "Assets\\Archive\\Scripts\\FSM\\MultiFSM.cs",
+              "ToolTip": "D:\\SourceTreeProject\\Project_K\\Project_K\\Assets\\Archive\\Scripts\\FSM\\MultiFSM.cs",
+              "RelativeToolTip": "Assets\\Archive\\Scripts\\FSM\\MultiFSM.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAUwGcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T14:53:05.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Utils.cs",
+              "DocumentMoniker": "D:\\SourceTreeProject\\Project_K\\Project_K\\Assets\\Archive\\Scripts\\Common\\Utils.cs",
+              "RelativeDocumentMoniker": "Assets\\Archive\\Scripts\\Common\\Utils.cs",
+              "ToolTip": "D:\\SourceTreeProject\\Project_K\\Project_K\\Assets\\Archive\\Scripts\\Common\\Utils.cs",
+              "RelativeToolTip": "Assets\\Archive\\Scripts\\Common\\Utils.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T08:41:05.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GlobalVal.cs",
+              "DocumentMoniker": "D:\\SourceTreeProject\\Project_K\\Project_K\\Assets\\Archive\\Scripts\\Common\\GlobalVal.cs",
+              "RelativeDocumentMoniker": "Assets\\Archive\\Scripts\\Common\\GlobalVal.cs",
+              "ToolTip": "D:\\SourceTreeProject\\Project_K\\Project_K\\Assets\\Archive\\Scripts\\Common\\GlobalVal.cs",
+              "RelativeToolTip": "Assets\\Archive\\Scripts\\Common\\GlobalVal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T07:39:39.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GoogleSheetLoad.cs",
+              "DocumentMoniker": "D:\\SourceTreeProject\\Project_K\\Project_K\\Assets\\Archive\\Scripts\\TableData\\GoogleSheetLoad.cs",
+              "RelativeDocumentMoniker": "Assets\\Archive\\Scripts\\TableData\\GoogleSheetLoad.cs",
+              "ToolTip": "D:\\SourceTreeProject\\Project_K\\Project_K\\Assets\\Archive\\Scripts\\TableData\\GoogleSheetLoad.cs",
+              "RelativeToolTip": "Assets\\Archive\\Scripts\\TableData\\GoogleSheetLoad.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAqwDEAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T07:38:32.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "D:\\SourceTreeProject\\Project_K\\Project_K\\Assets\\Archive\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Archive\\Scripts\\GameManager.cs",
+              "ToolTip": "D:\\SourceTreeProject\\Project_K\\Project_K\\Assets\\Archive\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Archive\\Scripts\\GameManager.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvx0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T14:14:48.324Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

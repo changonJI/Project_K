@@ -1,12 +1,10 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 /// <summary>
-/// 현재 씬에만 존재하는 싱글톤
+/// 싱글톤
 /// </summary>
 /// <typeparam name="T"></typeparam>
-public class Singleton<T> where T : class, new()
+public class SingletonClass<T> where T : class, new()
 {
     private static T instance = null;
 
@@ -31,7 +29,7 @@ public class Singleton<T> where T : class, new()
     /// <summary>
     /// 생성자
     /// </summary>
-    public Singleton()
+    public SingletonClass()
     {
 
     }
@@ -39,14 +37,58 @@ public class Singleton<T> where T : class, new()
     /// <summary>
     /// 소멸자
     /// </summary>
-    ~Singleton()
+    ~SingletonClass()
     {
 
     }
 }
 
 /// <summary>
-/// 어플이 종료될때까지 존재하는 싱글톤
+/// 싱글톤
+/// </summary>
+/// <typeparam name="T"></typeparam>
+public class SingletonMono<T> : MonoBehaviour where T : class, new()
+{
+    private static T instance = null;
+
+    public static T Instance
+    {
+        get
+        {
+            if (instance == null)
+            {
+                instance = new T();
+            }
+
+            return instance;
+        }
+    }
+
+    public bool IsValid()
+    {
+        return instance != null;
+    }
+
+    /// <summary>
+    /// 생성자
+    /// </summary>
+    public SingletonMono()
+    {
+
+    }
+
+    /// <summary>
+    /// 소멸자
+    /// </summary>
+    ~SingletonMono()
+    {
+
+    }
+}
+
+
+/// <summary>
+/// 오브젝트를 생성하는 싱글톤
 /// </summary>
 /// <typeparam name="T"></typeparam>
 public class DontDestroySIngleton<T> : MonoBehaviour where T : DontDestroySIngleton<T>
@@ -81,8 +123,6 @@ public class DontDestroySIngleton<T> : MonoBehaviour where T : DontDestroySIngle
 
     protected virtual void Awake()
     {
-        Debug.Log(IsValid());
-
         if (instance != null)
             DestroyImmediate(instance.gameObject);
 

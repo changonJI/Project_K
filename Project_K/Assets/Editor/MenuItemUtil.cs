@@ -1,9 +1,7 @@
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+using System.IO;
 using UnityEditor;
 using UnityEditor.SceneManagement;
-using System.IO;
+using UnityEngine;
 
 public static class MenuItemUtil
 {
@@ -11,7 +9,7 @@ public static class MenuItemUtil
     private const string Alt = "&";
     private const string Shift = "#";
 
-
+    #region 경로 : Util/
     /// <summary>
     /// 선택한 오브젝트 on/off
     /// </summary>
@@ -27,7 +25,7 @@ public static class MenuItemUtil
     [MenuItem("Util/OpenLogoScene " + Shift + Alt + "1", false, 10)]
     private static void OpenLogoScene()
     {
-        EditorSceneManager.OpenScene("Assets/Scenes/LogoScene.unity");
+        EditorSceneManager.OpenScene("Assets/Scenes/LoadingScene.unity");
     }
 
     /// <summary>
@@ -47,11 +45,13 @@ public static class MenuItemUtil
     {
         EditorSceneManager.OpenScene("Assets/Scenes/TownScene.unity");
     }
+    #endregion
 
+    #region 경로 : Assets/
     /// <summary>
-    /// 에셋번들 빌드
+    /// AssetBundles Build
     /// </summary>
-    [UnityEditor.MenuItem("Assets/Asset Bundles Build")]
+    [MenuItem("Assets/Asset Bundles Build")]
     private static void BuildAllAssetBundles()
     {
         string assetBundleDir = Application.dataPath + "/" + "AssetBundle";
@@ -61,6 +61,8 @@ public static class MenuItemUtil
             Directory.CreateDirectory(assetBundleDir);
         }
 
+        // (저장 경로,빌드 옵션, 현재 빌드 세팅한 OS
         BuildPipeline.BuildAssetBundles(assetBundleDir, BuildAssetBundleOptions.None, EditorUserBuildSettings.activeBuildTarget);
     }
+    #endregion
 }

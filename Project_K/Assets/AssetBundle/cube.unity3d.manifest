@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 486643356
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 565a7dd180802f4c9d239be3eb9d455a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a2324d7a9d7d81ad273145ab3855f5cf
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 565a7dd180802f4c9d239be3eb9d455a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Archive/Prefabs/BundleTest_4.prefab
+- Assets/Archive/Prefabs/BundleTest_1.prefab
+Dependencies: []

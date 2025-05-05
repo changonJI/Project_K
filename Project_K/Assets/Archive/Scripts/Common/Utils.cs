@@ -30,7 +30,7 @@ public static class Utils
         return $"{address}/export?format=tsv&range={range}&gid={sheetID}";
     }
 
-    public static int SumInt(int a, int b)
+    public static int Sum(int a, int b)
     {
         return a + b;
     }

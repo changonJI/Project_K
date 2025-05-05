@@ -9,7 +9,7 @@ using UnityEngine.Networking;
 /// <summary>
 /// DataBase
 /// </summary>
-public class GoogleSheetLoad : Singleton<GoogleSheetLoad>
+public class GoogleSheetLoad : SingletonClass<GoogleSheetLoad>
 {
     //public string googleSheetURL = Utils.GetGoogleSheetAddress("https://docs.google.com/spreadsheets/d/1jBtwF2mr6BvDl31bHpLFDKxFao3YKvJjy4sZYgctgUA", "A2:C3", "0");
     private string str_sheetUrl = "";
@@ -36,11 +36,11 @@ public class GoogleSheetLoad : Singleton<GoogleSheetLoad>
         {
             // Generic 인자(SIngleTon<>으로 가져와야 Instance Proper)를 가진 타입을 생성
             // Type.MakeGenericType(Type)
-            var geneticType = typeof(Singleton<>).MakeGenericType(data);
+            var genericType = typeof(SingletonClass<>).MakeGenericType(data);
             // Type의 Property를 가져오는 방법
             // Type.GetProperty(해당 프로퍼티 명)
             //var property = geneticType.GetProperty(nameof(Singleton<object>.Instance));
-            var property = geneticType.GetProperty("Instance");
+            var property = genericType.GetProperty("Instance");
             // Instance 호출
             IDataManager instance = (IDataManager)property.GetValue(null);
             instance.ClearData();
@@ -78,11 +78,7 @@ public class GoogleSheetLoad : Singleton<GoogleSheetLoad>
             // 에러가 났다면 에러메시지 출력 후 break;
             if (www.error != null)
             {
-                Debug.LogError(www.error);
-                Debug.LogError("앱 강제 종료");
-
-                Application.Quit();
-                yield break;
+                throw new Exception($"테이블 시트 URL 다운로드중 오류 발생 : {www.error}");
             }
 
             // 테이블 데이터 저장
@@ -126,11 +122,7 @@ public class GoogleSheetLoad : Singleton<GoogleSheetLoad>
             // 에러가 났다면 에러메시지 출력 후 break;
             if (www.error != null)
             {
-                Debug.LogError(www.error);
-                Debug.LogError("앱 강제 종료");
-
-                Application.Quit();
-                yield break;
+                throw new Exception($"테이블 데이터 다운로드중 오류 발생 : {www.error}");
             }
 
             // 테이블 데이터 저장

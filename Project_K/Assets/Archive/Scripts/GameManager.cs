@@ -21,10 +21,13 @@ public class GameManager : DontDestroySIngleton<GameManager>
         //InitTableData();
         // 에셋번들 로드
     }
-
-    private IEnumerator Start()
+    private void Start()
     {
-        StartCoroutine(GoogleSheetLoad.Instance.LoadData(Utils.GetGoogleSheetAddress(str_Url,str_Range,str_SheetID)));
+    }
+
+    private IEnumerator LoadTableData()
+    {
+        StartCoroutine(GoogleSheetLoad.Instance.LoadData(Utils.GetGoogleSheetAddress(str_Url, str_Range, str_SheetID)));
 
         yield return new WaitForSeconds(1f);
     }

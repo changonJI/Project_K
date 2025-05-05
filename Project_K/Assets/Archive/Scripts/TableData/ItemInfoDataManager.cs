@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
 
-public class ItemInfoDataManager : Singleton<ItemInfoDataManager>, IDataManager
+public class ItemInfoDataManager : SingletonClass<ItemInfoDataManager>, IDataManager
 {
     public eTable_Type table_Type
     {
